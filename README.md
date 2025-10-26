@@ -1,0 +1,1 @@
+Comprehensive design handbooks on DC–DC and DC–AC converters, covering analysis, modeling, control, and optimization. Bridging theory and practical implementation for engineers and researchers in power electronics.
